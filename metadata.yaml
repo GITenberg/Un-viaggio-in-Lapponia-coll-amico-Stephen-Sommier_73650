@@ -1,0 +1,47 @@
+_repo: Un-viaggio-in-Lapponia-coll-amico-Stephen-Sommier_73650
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mantegazza, Paolo
+    aliases:
+    - Mantegazza, Paul
+    - Mantegazza, Pablo
+    - Mantegazzo, Pavel
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '8940'
+    url: http://www.gutenberg.org/2009/agents/8940
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Paolo_Mantegazza
+    - https://en.wikipedia.org/wiki/Paolo_Mantegazza
+  - agent_name: Sommier, Stephen
+    alias: Sommier, Stefano
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '57167'
+    url: http://www.gutenberg.org/2009/agents/57167
+    wikipedia: https://it.wikipedia.org/wiki/Stefano_Sommier
+description: ''
+gutenberg_issued: '2024-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73650'
+  lccn: '2001560017'
+language: it
+pgterms:marc905: 20230714042918mantegazza
+pgterms:marc906: '1881'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aMilano :$bBrigola, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lapland -- Description and travel'
+- !lcsh 'Lapland -- Social life and customs'
+- !lcsh 'Folk literature, Sami -- Translations into Italian'
+- !lcc 'DL'
+- GITenberg
+title: Un viaggio in Lapponia coll'amico Stephen Sommier
+url: http://www.gutenberg.org/ebooks/73650
