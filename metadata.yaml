@@ -1,5 +1,8 @@
 _repo: Un-viaggio-in-Lapponia-coll-amico-Stephen-Sommier_73650
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73650-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mantegazza, Paolo
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57167
     wikipedia: https://it.wikipedia.org/wiki/Stefano_Sommier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73650#Un-viaggio-in-Lapponia-coll-amico-Stephen-Sommier
 gutenberg_issued: '2024-05-19'
 gutenberg_type: Text
 identifiers:
